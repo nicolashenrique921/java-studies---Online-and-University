@@ -18,7 +18,6 @@
 //}
 
 //Abaixo o codigo ja resolvido por mim
-// Abaixo segue um exemplo de código que você pode ou não utilizar
 import java.util.Scanner;
 
 public class Problem {
